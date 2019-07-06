@@ -1,2 +1,3 @@
 # aircraft-api
-API to retrieve asircraft from a database
+API to retrieve aircraft from a database
+
